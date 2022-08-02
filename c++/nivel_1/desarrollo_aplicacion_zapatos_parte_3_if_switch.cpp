@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 int main(){
-	int talla, cantidad, costo_unidad, costo_total, precio_unidad,precio_total,utilidad,utilidad_t,porcentaje_utilidad,caso;
+	int talla, cantidad, costo_unidad, costo_total, precio_unidad,precio_total,utilidad,utilidad_t,porcentaje_utilidad;
 	char referencia[100],descripcion[100], disponibilidad[100];
 	string tipo;
 	cout << "ADMINISTRAR VENTA DE ZAPATOS \n"<<endl;
@@ -20,29 +20,17 @@ int main(){
 	cout<<"digite el costo unidad zapato"<<endl;
 	cin>>costo_unidad;
 	
-	if(costo_unidad<= 30000)
+	switch(costo_unidad)
 	{
-		caso = 1;
-	}
-	else if(costo_unidad <= 60000){
-		caso = 2;
-	}
-	else{
-		caso = 3;
-	}
-
-	
-	switch(caso)
-	{
-		case 1:
+		case 0 ... 30000:
 			tipo = "A";
 			utilidad= costo_unidad/2;
 			porcentaje_utilidad=50;
-		case 2:
+		case 30001 ... 60000:
 			tipo ="B";
 			utilidad= (2*costo_unidad)/5;
 			porcentaje_utilidad=40;
-		case 3:
+		default:
 			tipo = "C";
 			utilidad= (3*costo_unidad)/10;
 			porcentaje_utilidad=30;
