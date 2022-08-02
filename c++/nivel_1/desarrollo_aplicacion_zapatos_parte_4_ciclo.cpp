@@ -11,7 +11,6 @@ int main(){
 	cout <<"desea registrar un zapato s/n: " << endl;
 		cin >> desea;
 	while(desea == "s"){
-		cin
 		cout << "Digite la referencia del zapato"<<endl;
 		cin.getline(referencia,100,'\n');
 		cout <<"Digite la descripcion del zapato"<<endl;
