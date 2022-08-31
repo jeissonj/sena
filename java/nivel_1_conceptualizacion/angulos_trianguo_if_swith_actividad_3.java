@@ -10,7 +10,7 @@ public class Main{
 		double a,b,c,h,anguloa,angulob,anguloc,area;
 		String tipo;
 		Scanner s = new Scanner(System.in);
-		System.out.println("Ingrese el valor de los tres angulos a, b y c.");
+		System.out.println("Ingrese el valor de los tres lados a, b y c.");
 		a = s.nextFloat();
 		b = s.nextFloat();
 		c = s.nextFloat();
