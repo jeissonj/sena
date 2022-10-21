@@ -1,0 +1,21 @@
+Para entregar la evidencia remítase a la Actividad 3 / Evidencias / AA3-EV01: Evaluación - Identificar las características de funciones y variables en C++.
+Resolver el caso planteado utilizando funciones y aplicando variables locales y globales
+El orden en la escritura del código de un programa es quizá una de las características principales para que este pueda ser entendido fácilmente y el proceso de mantenimiento o actualización se desarrolle sin ningún traumatismo. Con miras a que dicha característica sea tenida en cuenta en la programación de aplicaciones, es importante que el programador maneje adecuadamente los conceptos y la utilización de las funciones,
+puesto que constituyen un excelente insumo que permite dar modularidad a la codificación.
+Las funciones hacen posible dividir el programa en módulos pequeños para que este sea más entendible y por ende más funcional. Si se realiza un buen análisis de los requerimientos de la aplicación, identificando claramente las diferentes tareas que esta debe desarrollar, se procede a asignar cada una a una función, y todo el proceso de programación es desarrollado con mayor agilidad.
+Con base en la información anterior, en la consulta del material de formación Uso y declaración de funciones, analice y resuelva el estudio de caso de acuerdo con lo que se plantea a continuación:
+1. Usted ha sido contratado en el grupo de programadores de una importante compañía de software y su primera labor dentro del equipo de trabajo consiste en crear dos programas solicitados por uno de los clientes más fieles de la empresa.
+Programa 1: se requiere manejar, por medio de un software, el proceso para generar el pago de nómina de los empleados de una empresa; el sistema debe permitir las siguientes acciones:
+a. Diligenciar la información básica de los empleados (cédula, nombres, teléfono, cargo y salario básico).
+b. Diligenciar la información por labor de los empleados (horas extras laboradas, descuentos por préstamos, ahorro voluntario, descuentos por seguridad social).
+c. Calcular el valor a pagar para cada empleado, por separado.
+d. Mostrar la información necesaria para el pago de cada empleado por separado.
+e. Cada acción del sistema debe ser programada dentro de una función.
+
+Programa 2: se requiere un software que permita calcular el área y el perímetro de las figuras geométricas.
+El programa debe ser escrito aplicando funciones con declaración de variables globales y locales y el cálculo debe poder efectuarse para al menos cuatro figuras diferentes.
+Además de las funciones de cálculo de cada figura, debe haber una función que muestre el resultado.
+2. Ambos programas deben ser desarrollados en archivos independientes y es necesario que entregue tanto el archivo .cpp como el archivo ejecutable .exe; por lo tanto, los archivos a entregar para la solución de los programas serían cuatro.
+3. Responda las preguntas planteadas en la actividad Reflexionar sobre la utilidad de las variables globales y locales en las funciones e inclúyalas en un documento de Word.
+4. Entregue en una carpeta comprimida los cinco archivos que dan solución a la presente evidencia de aprendizaje.
+Para acceder a la evidencia haga clic en el enlace Actividad 3 / Evidencias / AA3-EV02: Estudio de caso - Resolver el caso planteado utilizando funciones y aplicando variables locales y globales.
