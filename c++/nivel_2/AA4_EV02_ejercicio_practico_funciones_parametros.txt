@@ -1,0 +1,32 @@
+Dentro de la compañía de software en la cual usted fue contratado, se han recibido los requerimientos de un cliente para la creación de tres programas desarrollados en el lenguaje C++ a través de funciones.
+
+1. Programa 1 – Aplicación de parámetros por valor: crear un programa que calcule y muestre en pantalla el costo de envío de productos, teniendo en cuenta el peso de estos en kilogramos. El programa debe funcionar de acuerdo con las siguientes indicaciones:
+a. Se solicita al usuario el peso del paquete que será enviado.
+b. Para paquetes cuyo peso se encuentre entre 0 y 10 kilos, el cargo fijo de envío es $28.000.
+c. Para paquetes cuyo peso se encuentre entre 10 y 30 kilos, el cargo fijo es de $34.000, más un valor adicional de $1.600 por cada kilo superior a 10.
+d. Para paquetes cuyo peso sea igual o superior a 50 kilos, el cargo fijo es de $60.000, más un valor adicional de $1.900 por cada kilo superior a 50.
+e. El programa debe mostrar en pantalla el costo total del envío
+
+2.Programa 2 – Aplicación de parámetros por referencia: se requiere un programa que permita calcular el valor que un empleado recibirá como salario mensual el próximo año. Los cálculos respectivos deben ser realizados teniendo en cuenta las siguientes indicaciones:
+a. Se debe pedir al usuario el salario anual devengado actualmente.
+b. El aumento para el siguiente año dependerá de la antigüedad del empleado.
+c. Se debe pedir al usuario dicha antigüedad en años.
+d. Para los empleados que llevan entre 0 y 5 años en la empresa, el aumento será del 6 %.
+e. Para los empleados que llevan entre 5 y 10 años en la empresa, el aumento será del 8 %.
+f. Para los empleados que llevan más de 10 años en la empresa, el aumento será del 10 %.
+g. Se debe mostrar en pantalla el salario actual del empleado.
+h. Se debe mostrar en pantalla el salario que devengará el año siguiente, según el aumento aplicado.
+
+3. Programa 3 – Aplicación de arreglos como parámetros: se requiere un programa que contenga una función que reciba como parámetro un arreglo y permita realizar lo siguiente:
+a. Preguntar al usuario la cantidad de elementos que desea que contenga el arreglo.
+b. Permitir que el usuario ingrese dichos elementos al arreglo.
+c. Mostrar en pantalla el arreglo ingresado.
+d. Devolver como resultado el arreglo con todos sus elementos elevados al cubo.
+e. En todas las partes del programa donde sea aplicable, se deben utilizar funciones.
+
+4. Entrega de programas: se deben entregar para cada programa dos archivos diferentes, así:
+a. Archivo con extensión .cpp con el código de cada programa.
+b. Archivo con extensión .exe con el ejecutable de cada programa.
+
+5.En un documento de Word incluya las respuestas a las preguntas planteadas en la actividad de reflexión inicial Reflexionar sobre la utilidad de los diferentes tipos de parámetros en las
+funciones.
