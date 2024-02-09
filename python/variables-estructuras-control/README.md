@@ -1,4 +1,5 @@
-<h1>Variables y estructuras de control en Python (2907863)</h1>
+![Logo SENA](https://certificadossena.net/wp-content/uploads/2022/10/logo-sena-naranja-png-2022.png)
+<h1 aling="center">Variables y estructuras de control en Python (2907863)</h1>
 Se Creo repositorio para desarrollar actividades correspondientes al curso variables y estructuras de control en Python ofrecido por el SENA
 donde los temas a tratar serán 
  VARIABLES: NOMBRE DE VARIABLE, CARACTERÍSTICAS.
