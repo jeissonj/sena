@@ -16,5 +16,5 @@ li.append(n1 + n2)
 li.append(n1 - n2)
 li.append(n1 * n2)
 li.append(n1 / n2)
-
+#salida de datos con formato
 print("la suma es %d, la resta %d, el producto %d, la división %.2f \n Fin, espero tenga un exelente dia :)"%(li[0],li[1],li[2],li[3]))
