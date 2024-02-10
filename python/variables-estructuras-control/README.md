@@ -1,7 +1,9 @@
 <img src="https://certificadossena.net/wp-content/uploads/2022/10/logo-sena-naranja-png-2022.png" width="60" height="60">
 
 <h1 aling="center">Variables y estructuras de control en Python (2907863)</h1>
-Se Creo repositorio para desarrollar actividades correspondientes al curso variables y estructuras de control en Python ofrecido por el SENA, información del curso
+Se Creo repositorio para desarrollar actividades correspondientes al curso variables y estructuras de control en Python ofrecido por el SENA en este caso Centro de Desarrollo Agroindustrial Turístico y Tecnológico del Guaviare, 
+
+información del curso
 
 - Denominación del programa de formación: Variables y estructuras de control en Python.
 - Código del programa de formación: 22810005
@@ -31,7 +33,6 @@ Se Creo repositorio para desarrollar actividades correspondientes al curso varia
 
 
 
-donde los temas a tratar serán 
 
 
 
