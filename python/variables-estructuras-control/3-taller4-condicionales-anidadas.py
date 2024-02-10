@@ -7,7 +7,7 @@ from datetime import date
 hoy = date.today()
 print("Hoy es el día: \n",hoy)
 #fecha actual
-print ("EJERCICIO DE LAS CLASES DE TRIANGULOS")
+print("EJERCICIO DE LAS CLASES DE TRIANGULOS")
 a=int (input ("digite el valor de A: "))
 b=int (input ("digite el valor de B: "))
 c=int (input ("digite el valor de C: "))
@@ -19,14 +19,14 @@ else:
     else:
         print ("EL TRIANGULO ES ESCALENO\n")
 
-animal=input("digite un animal: *")
-animal = animal.upper ()
+animal=input("Digite el nombre de una especie animal: ")
+animal = animal.upper()
 if animal =="PERRO":
-    print ("Este animal es el menor amigo del hombre:", animal)
+    print ("Este animal mueve la cola cuando nos ve llegar y es el mejor amigo del hombre:", animal)
 elif animal=="GATO":
-    print ("Este animal persigue a los ratones: ", animal)
+    print ("Este animal se dice que es muy orgulloso y persigue a los ratones: ", animal)
 elif animal=="OSO":
-    print ("Este animal vive en el polonorte: ", animal)
+    print ("Este animal esta en la cuspide de la cadena alimenticia en su zona y vive en el polonorte: ", animal)
 else:
     print ("No es PERRO, no es GATO, ni es 0S0... es: ", animal)
 print ()
