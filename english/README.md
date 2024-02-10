@@ -1,0 +1,1 @@
+Este repositorio se hace con el fin de poder trabajar en el formato Markdown mientras se realizan los cursos de ingles del SENA, además de el poder tener la información organizada en caso de tener que repasar algún día. 
